@@ -1,0 +1,7 @@
+body {
+  font-family: sans-serif;
+  margin:20px;
+}
+form:nth-of-type(1) {
+  margin: 20px 0;
+}
